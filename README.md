@@ -11,12 +11,12 @@ The backend of the system is developed on CodeIgniter 3.1.3 PHP MVC Framework Th
   git clone https://github.com/gorardim/eftt.git cd eftt
   
 # Features
-  Login
-  Permission [ Admin / Staff / User]
-  Create a ture package.
-  Manage fontend element.
-  Passport Record, Visa Record, package wise booking Passenger List.
-  Store other information regarding passport and passenger Like, Medical Test, Mofa, Trade License, Police Inquiry, bank statement etc.
-  Ticket Confirming and Cancelling System.
-  Print and e-mail booking and service invoice.
-  Generate Company Balance sheet date, service, and package wise.
+  1. Login
+  2. Permission [ Admin / Staff / User]
+  3. Create a ture package.
+  4. Manage fontend element.
+  5. Passport Record, Visa Record, package wise booking Passenger List.
+  6. Store other information regarding passport and passenger Like, Medical Test, Mofa, Trade License, Police Inquiry, bank statement etc.
+  7. Ticket Confirming and Cancelling System.
+  8. Print and e-mail booking and service invoice.
+  9. Generate Company Balance sheet date, service, and package wise.
