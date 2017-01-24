@@ -8,5 +8,15 @@ It is an Online Tourism Management System. Admin panel for management to control
 The backend of the system is developed on CodeIgniter 3.1.3 PHP MVC Framework The front end is built on Edmin Responsive Bootstrap Admin Template which is built on Bootstrap v3.3.7 using jQuery and angularjs.
 
 # installation
-  git clone
-
+  git clone https://github.com/gorardim/eftt.git cd eftt
+  
+# Features
+  Login
+  Permission [ Admin / Staff / User]
+  Create a ture package.
+  Manage fontend element.
+  Passport Record, Visa Record, package wise booking Passenger List.
+  Store other information regarding passport and passenger Like, Medical Test, Mofa, Trade License, Police Inquiry, bank statement etc.
+  Ticket Confirming and Cancelling System.
+  Print and e-mail booking and service invoice.
+  Generate Company Balance sheet date, service, and package wise.
